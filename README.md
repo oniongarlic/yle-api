@@ -83,7 +83,7 @@ Radio streams, rtsp
 - rtsp://stream3.yle.mobi/yle/live/kainuu.sdp
 - rtsp://stream3.yle.mobi/yle/live/kainuu128.sdp
 - rtsp://stream3.yle.mobi/yle/live/kainuu256.sdp
-- 
+
 - rtsp://stream3.yle.mobi/yle/live/keskipohjanmaa.sdp
 - rtsp://stream3.yle.mobi/yle/live/keskipohjanmaa128.sdp
 - rtsp://stream3.yle.mobi/yle/live/keskipohjanmaa256.sdp
@@ -177,7 +177,7 @@ X3M
 - rtsp://stream3.yle.mobi/yle/live/x3m.sdp
 - rtsp://stream3.yle.mobi/yle/live/x3m128.sdp
 - rtsp://stream3.yle.mobi/yle/live/x3m256.sdp
-- 
+
 - rtsp://stream3.yle.mobi/yle/live/ylenaikainen.sdp
 - rtsp://stream3.yle.mobi/yle/live/ylenaikainen128.sdp
 - rtsp://stream3.yle.mobi/yle/live/ylenaikainen256.sdp
