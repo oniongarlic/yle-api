@@ -71,15 +71,15 @@ Radio streams, rtsp
 - rtsp://stream3.yle.mobi/yle/live/etelakarjala.sdp
 - rtsp://stream3.yle.mobi/yle/live/etelakarjala128.sdp
 - rtsp://stream3.yle.mobi/yle/live/etelakarjala256.sdp
-- 
+
 - rtsp://stream3.yle.mobi/yle/live/etelasavo.sdp
 - rtsp://stream3.yle.mobi/yle/live/etelasavo128.sdp
 - rtsp://stream3.yle.mobi/yle/live/etelasavo256.sdp
-- 
+
 - rtsp://stream3.yle.mobi/yle/live/itauusimaa.sdp
 - rtsp://stream3.yle.mobi/yle/live/itauusimaa128.sdp
 - rtsp://stream3.yle.mobi/yle/live/itauusimaa256.sdp
-- 
+
 - rtsp://stream3.yle.mobi/yle/live/kainuu.sdp
 - rtsp://stream3.yle.mobi/yle/live/kainuu128.sdp
 - rtsp://stream3.yle.mobi/yle/live/kainuu256.sdp
@@ -87,11 +87,11 @@ Radio streams, rtsp
 - rtsp://stream3.yle.mobi/yle/live/keskipohjanmaa.sdp
 - rtsp://stream3.yle.mobi/yle/live/keskipohjanmaa128.sdp
 - rtsp://stream3.yle.mobi/yle/live/keskipohjanmaa256.sdp
-- 
+
 - rtsp://stream3.yle.mobi/yle/live/keskisuomi.sdp
 - rtsp://stream3.yle.mobi/yle/live/keskisuomi128.sdp
 - rtsp://stream3.yle.mobi/yle/live/keskisuomi256.sdp
-- 
+
 - rtsp://stream3.yle.mobi/yle/live/kymenlaakso.sdp
 - rtsp://stream3.yle.mobi/yle/live/kymenlaakso128.sdp
 - rtsp://stream3.yle.mobi/yle/live/kymenlaakso256.sdp
@@ -156,6 +156,7 @@ Radio streams, rtsp
 - rtsp://stream3.yle.mobi/yle/live/turunradio128.sdp
 - rtsp://stream3.yle.mobi/yle/live/turunradio256.sdp
 
+Vega
 - rtsp://stream3.yle.mobi/yle/live/vega_aboland.sdp
 - rtsp://stream3.yle.mobi/yle/live/vega_aboland128.sdp
 - rtsp://stream3.yle.mobi/yle/live/vega_aboland256.sdp
@@ -172,6 +173,7 @@ Radio streams, rtsp
 - rtsp://stream3.yle.mobi/yle/live/vega_vastnyland128.sdp
 - rtsp://stream3.yle.mobi/yle/live/vega_vastnyland256.sdp
 
+X3M
 - rtsp://stream3.yle.mobi/yle/live/x3m.sdp
 - rtsp://stream3.yle.mobi/yle/live/x3m128.sdp
 - rtsp://stream3.yle.mobi/yle/live/x3m256.sdp
@@ -179,15 +181,17 @@ Radio streams, rtsp
 - rtsp://stream3.yle.mobi/yle/live/ylenaikainen.sdp
 - rtsp://stream3.yle.mobi/yle/live/ylenaikainen128.sdp
 - rtsp://stream3.yle.mobi/yle/live/ylenaikainen256.sdp
- 
+
+Klassinen 
 - rtsp://stream3.yle.mobi/yle/live/ylenklassinen.sdp
 - rtsp://stream3.yle.mobi/yle/live/ylenklassinen128.sdp
 - rtsp://stream3.yle.mobi/yle/live/ylenklassinen256.sdp
-- 
+
 - rtsp://stream3.yle.mobi/yle/live/ylenlantinen.sdp
 - rtsp://stream3.yle.mobi/yle/live/ylenlantinen128.sdp
 - rtsp://stream3.yle.mobi/yle/live/ylenlantinen256.sdp
 
+YLEX
 - rtsp://stream3.yle.mobi/yle/live/ylex.sdp
 - rtsp://stream3.yle.mobi/yle/live/ylex128.sdp
 - rtsp://stream3.yle.mobi/yle/live/ylex256.sdp
