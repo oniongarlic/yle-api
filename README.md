@@ -1,6 +1,9 @@
 yle-api
 =======
 
+NOTE: Most of this information is now outdated!
+See the official YLE developer web site https://developer.yle.fi/  for up to date information.
+
 Unofficial documentation for YLE APIs and live radio streams
 
 Radio station information
